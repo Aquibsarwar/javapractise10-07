@@ -3,6 +3,7 @@ public class javastudy01 {
 	public static void main(String[] args) {
 		
 		javaStudy02 person1 = new javaStudy02("Saquib");
+		
 		person1.sayName();
 		
 		person1.setName("Aquib");
